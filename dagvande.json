@@ -1,15 +1,83 @@
 [
   {
+    "dag": "04-01",
+    "onderwerp": "Brailledag"
+  },
+    {
+    "dag": "24-01",
+    "onderwerp": "Pindakaasdag"
+  },  
+  {
+    "dag": "27-02",
+    "onderwerp": "Internationale dag van de ijsbeer"
+  },
+  {
+    "dag": "01-03",
+    "onderwerp": "Nationale complimentendag"
+  },
+  {
+    "dag": "14-03",
+    "onderwerp": "Pi-dag"
+  },
+  {
+    "dag": "21-03",
+    "onderwerp": "Werelddownsyndroomdag"
+  },
+  {
+    "dag": "22-03",
+    "onderwerp": "Wereldwaterdag"
+  },
+  {
+    "dag": "19-04",
+    "onderwerp": "Dag van de ingenieur"
+  },
+  {
+    "dag": "15-05",
+    "onderwerp": "Internationale dag van het gezin"
+  },
+  {
+    "dag": "25-05",
+    "onderwerp": "Handdoekdag"
+  },
+  {
+    "dag": "30-05",
+    "onderwerp": "Peruaanse dag van de aardappel"
+  },
+  {
     "dag": "08-06",
     "onderwerp": "De dag waarop in 2013 de eerste editie van Omloop De Snor werd verreden"
   },
+  {
+    "dag": "13-06",
+    "onderwerp": "Wereld albinodag"
+  },
+  {
+    "dag": "21-06",
+    "onderwerp": "Nationale dag van lange mensen"
+  },
+  {
+    "dag": "13-08",
+    "onderwerp": "Internationale linkshandigendag"
+  },  
+  {
+    "dag": "02-09",
+    "onderwerp": "Roodharigendag"
+  }, 
+  {
+    "dag": "13-10",
+    "onderwerp": "Dag van het pak"
+  }, 
+  {
+    "dag": "16-10",
+    "onderwerp": "Nationale dag van de baas"
+  }, 
   {
     "dag": "14-11",
     "onderwerp": "Fêtons la francophonie"
   },
   {
     "dag": "19-11",
-    "onderwerp": "Dag van de Snorbot"
+    "onderwerp": "Internationale Mannendag"
   },
   {
     "dag": "20-11",
@@ -86,6 +154,14 @@
   {
     "dag": "08-12",
     "onderwerp": "Dag van het koor"
+  },
+  {
+    "dag": "09-12",
+    "onderwerp": "Dag waarop Douglas Engelbart in 1968 voor het eerst een computer met muis demonstreert."
+  },
+  {
+    "dag": "10-12",
+    "onderwerp": "Dag waarop in 1665 het Korps Mariniers wordt opgericht."
   },
   {
     "dag": "11-12",
