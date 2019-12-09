@@ -7,5 +7,6 @@ Lijsten met:
 - Dooddoeners
 - Opsommingen van "Dag van de..." dagen
 - Dingen die je kan doen als je je verveelt
+- Haiku's
 
 Wordt bijvoorbeeld gebruikt in de [SnorBot](https://github.com/geensnor/SnorBot)
