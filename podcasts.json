@@ -7,14 +7,23 @@
     },
     {
         "naam":"Podcast over Media",
-        "PodcastURL":"https://www.dagennacht.nl/serie/een-podcast-over-media/",
-        "adviesGeensnor":"Uitstekend",
+        "url":"https://www.dagennacht.nl/serie/een-podcast-over-media/",
+        "adviesGeensnor":"Uitstekend. Ernst-Jan Pfauth en Alexander Klopping praten met gooise R over nederlandse media.",
         "adviesGeensnorDatum":"2020-02-06"
     },
     {
         "naam":"Yous & Yay: New Emotions",
-        "PodcastURL":"https://www.vpro.nl/programmas/yous-en-yay.html",
-        "adviesGeensnor":"Uitstekend",
+        "url":"https://www.vpro.nl/programmas/yous-en-yay.html",
+        "adviesGeensnor":"Uitstekend. Pepijn en Sef praten met van allerlei mensen. Veel mensen uit cultuur/tv/muziek sector.",
+        "adviesGeensnorDatum":"2020-02-06"
+    },
+    {
+        "naam":"Appels en peren show",
+        "url":"https://www.appelsenperenshow.nl/",
+        "adviesGeensnor":"Uitstekend. Weer een techpodcast. Wietse en Reinier praten anderhalf uur over techniek, gadgets enzo. Wietse is een beetje de Adriaan van het stel en Reinier neemt de rol van Bassie op zich.",
         "adviesGeensnorDatum":"2020-02-06"
     }
 ]
+
+
+
