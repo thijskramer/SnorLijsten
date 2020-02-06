@@ -1,14 +1,20 @@
 [
     {
-        "PodcastName":"Met nerds om tafel",
-        "PodcastURL":"https://www.metnerdsomtafel.nl/",
-        "PodcastAdvies":"Matig",
-        "PodcastLastUpdate":"6 feb 2020"
+        "naam":"Met nerds om tafel",
+        "url":"https://www.metnerdsomtafel.nl/",
+        "adviesGeensnor":"Matig",
+        "adviesGeensnorDatum":"2020-02-06"
     },
     {
-        "PodcastName":"Podcast over Media",
+        "naam":"Podcast over Media",
         "PodcastURL":"https://www.dagennacht.nl/serie/een-podcast-over-media/",
-        "PodcastAdvies":"Uitstekend",
-        "PodcastLastUpdate":"6 feb 2020"
+        "adviesGeensnor":"Uitstekend",
+        "adviesGeensnorDatum":"2020-02-06"
+    },
+    {
+        "naam":"Yous & Yay: New Emotions",
+        "PodcastURL":"https://www.vpro.nl/programmas/yous-en-yay.html",
+        "adviesGeensnor":"Uitstekend",
+        "adviesGeensnorDatum":"2020-02-06"
     }
 ]
