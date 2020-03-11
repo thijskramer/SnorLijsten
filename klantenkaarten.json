@@ -1,15 +1,21 @@
 [
   {
     "bedrijf": "Albert Heijn",
-    "kaarten": {
+    "kaarten": [
       "2620748619265",
       "2622025281394"
-    }
+    ]
   },
   {
     "bedrijf": "Karwei",
-    "kaarten": {
+    "kaarten": [
       "2612069402251"
-    }
+    ]
+  },
+  {
+    "bedrijf": "Gamma",
+    "kaarten": [
+      "2616090622985"
+    ]
   }
 ]
