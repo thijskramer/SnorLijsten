@@ -3,10 +3,10 @@
 		"dag": "04-01",
 		"onderwerp": "Brailledag"
 	},
-		{
+	{
 		"dag": "24-01",
 		"onderwerp": "Pindakaasdag"
-	},  
+	},
 	{
 		"dag": "30-01",
 		"onderwerp": "Dag van de Croissant"
@@ -68,6 +68,10 @@
 		"onderwerp": "Internationale dag van het naakt tuinieren 2020"
 	},
 	{
+		"dag": "13-05",
+		"onderwerp": "Internationale humusdag"
+	},
+	{
 		"dag": "15-05",
 		"onderwerp": "Internationale dag van het gezin"
 	},
@@ -94,19 +98,19 @@
 	{
 		"dag": "13-08",
 		"onderwerp": "Internationale linkshandigendag"
-	},  
+	},
 	{
 		"dag": "02-09",
 		"onderwerp": "Roodharigendag"
-	}, 
+	},
 	{
 		"dag": "13-10",
 		"onderwerp": "Dag van het pak"
-	}, 
+	},
 	{
 		"dag": "16-10",
 		"onderwerp": "Nationale dag van de baas"
-	}, 
+	},
 	{
 		"dag": "14-11",
 		"onderwerp": "Fêtons la francophonie"
@@ -184,7 +188,7 @@
 		"onderwerp": "Dag waarop Thomas Edison de eerste geluidsopname maakt in 1877"
 	},
 	{
-		"dag":"07-12",
+		"dag": "07-12",
 		"onderwerp": "Internationale dag van de burgerluchtvaart"
 	},
 	{
@@ -232,5 +236,3 @@
 		"onderwerp": "Dag van de Onnozele Kinderen"
 	}
 ]
-
-
