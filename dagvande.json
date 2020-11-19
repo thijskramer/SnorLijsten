@@ -209,7 +209,7 @@
 	},
 	{
 		"dag": "28-11",
-		"onderwerp": "Dag waarop in 2000 de achste druppel viel in het pekdruppelexperiment"
+		"onderwerp": "Dag waarop in 2000 de achtste druppel viel in het pekdruppelexperiment"
 	},
 	{
 		"dag": "29-11",
@@ -221,7 +221,7 @@
 	},
 	{
 		"dag": "01-12",
-		"onderwerp": "Aidsdag"
+		"onderwerp": "Wereldaidsdag"
 	},
 	{
 		"dag": "02-12",
@@ -268,8 +268,16 @@
 		"onderwerp": "Dag van de Vrachtwagenchauffeur"
 	},
 	{
+		"dag": "13-12",
+		"onderwerp": "Foute kersttruiendag"
+	},
+	{
 		"dag": "14-12",
 		"onderwerp": "Dag van de aap"
+	},
+	{
+		"dag": "15-12",
+		"onderwerp": "Internationale Dag van de Thee"
 	},
 	{
 		"dag": "17-12",
@@ -290,5 +298,9 @@
 	{
 		"dag": "28-12",
 		"onderwerp": "Dag van de Onnozele Kinderen"
+	},
+	{
+		"dag": "29-12",
+		"onderwerp": "Internationale dag van de Cello"
 	}
 ]
