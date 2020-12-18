@@ -12,6 +12,7 @@ Lijsten met:
 - Haiku's
 - Podcasts
 - Adviezen van [advies.geensnor.nl](https://advies.geensnor.nl)
+- Brabantse uitspraken
 
 Wordt bijvoorbeeld gebruikt in de [SnorBot](https://github.com/geensnor/SnorBot)
 
