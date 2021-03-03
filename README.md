@@ -13,6 +13,7 @@ Lijsten met:
 - Podcasts
 - Adviezen van [advies.geensnor.nl](https://advies.geensnor.nl)
 - Brabantse uitspraken
+- Complottheorieën
 
 Wordt bijvoorbeeld gebruikt in de [SnorBot](https://github.com/geensnor/SnorBot)
 
