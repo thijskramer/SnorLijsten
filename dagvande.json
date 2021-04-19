@@ -116,6 +116,18 @@
 		"onderwerp": "Dag van de ingenieur"
 	},
 	{
+		"dag": "23-04",
+		"onderwerp": "Dag van het Duitse bier"
+	},
+	{
+		"dag": "25-04",
+		"onderwerp": "Dag van de pinguin"
+	},
+	{
+		"dag": "27-04",
+		"onderwerp": "Wereld Tapirdag"
+	},
+	{
 		"dag": "28-04",
 		"onderwerp": "Werelddag voor Veiligheid en Gezondheid op het Werk"
 	},
@@ -125,7 +137,23 @@
 	},
 	{
 		"dag": "02-05",
-		"onderwerp": "Internationale dag van het naakt tuinieren 2020"
+		"onderwerp": "Internationale dag van de lach"
+	},
+	{
+		"dag": "04-05",
+		"onderwerp": "Star Wars-dag ('May the fourth')"
+	},
+	{
+		"dag": "05-05",
+		"onderwerp": "Internationale dag van de handhygiëne"
+	},
+	{
+		"dag": "08-05",
+		"onderwerp": "Nationale Molen- en Gemalendag"
+	},
+	{
+		"dag": "10-05",
+		"onderwerp": "Spekkoekdag"
 	},
 	{
 		"dag": "13-05",
